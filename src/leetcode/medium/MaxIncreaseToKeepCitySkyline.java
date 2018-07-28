@@ -1,7 +1,7 @@
 package leetcode.medium;
 
 /**
- * @link https://leetcode-cn.com/submissions/detail/4736031/
+ * @link https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/description/
  *
  * @author <a href="mailto:hefangzhou@vpgame.cn">hefangzhou</a>
  * @date 2018/7/27 下午4:47
